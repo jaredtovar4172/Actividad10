@@ -1,0 +1,10 @@
+C:\Users\jared\source\repos\Ej10_NumerosRomanos\Ej10_NumerosRomanos\bin\Debug\Ej10_NumerosRomanos.exe.config
+C:\Users\jared\source\repos\Ej10_NumerosRomanos\Ej10_NumerosRomanos\bin\Debug\Ej10_NumerosRomanos.exe
+C:\Users\jared\source\repos\Ej10_NumerosRomanos\Ej10_NumerosRomanos\bin\Debug\Ej10_NumerosRomanos.pdb
+C:\Users\jared\source\repos\Ej10_NumerosRomanos\Ej10_NumerosRomanos\obj\Debug\Ej10_NumerosRomanos.csprojAssemblyReference.cache
+C:\Users\jared\source\repos\Ej10_NumerosRomanos\Ej10_NumerosRomanos\obj\Debug\Ej10_NumerosRomanos.Form1.resources
+C:\Users\jared\source\repos\Ej10_NumerosRomanos\Ej10_NumerosRomanos\obj\Debug\Ej10_NumerosRomanos.Properties.Resources.resources
+C:\Users\jared\source\repos\Ej10_NumerosRomanos\Ej10_NumerosRomanos\obj\Debug\Ej10_NumerosRomanos.csproj.GenerateResource.cache
+C:\Users\jared\source\repos\Ej10_NumerosRomanos\Ej10_NumerosRomanos\obj\Debug\Ej10_NumerosRomanos.csproj.CoreCompileInputs.cache
+C:\Users\jared\source\repos\Ej10_NumerosRomanos\Ej10_NumerosRomanos\obj\Debug\Ej10_NumerosRomanos.exe
+C:\Users\jared\source\repos\Ej10_NumerosRomanos\Ej10_NumerosRomanos\obj\Debug\Ej10_NumerosRomanos.pdb
